@@ -1,4 +1,4 @@
-# YOUR PROJECT TITLE
+# Brief introduction
     #### Video Demo:  https://youtu.be/rGGmg26RVe8?si=S2uk7VszxFviczFP
     #### Description:
     This is a module to deal with One-One relations of datas in .txt or .csv. You re reauired to input eg:python3 Project.py xxx.txt/.cxv -Bubble to sort or search specific data and gain ideal output. You're allowed to use this as a library by import project or from project import LinkedList and something else
